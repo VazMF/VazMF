@@ -1,4 +1,4 @@
-### Hi there, I'm Maria Fernanda
+### Hi there, I'm Maria Fernanda!
 
 - 🔭 I work with mobile development
 - 🌱 I'm learning AI concepts
