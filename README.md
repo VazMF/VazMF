@@ -1,6 +1,6 @@
 ### Hi there, I'm Maria Fernanda!
 
-- 🔭 I work with mobile development
+- 🔭 I work with mobile and back-end development
 - 🌱 I'm learning AI concepts
 - 😄 Pronouns: she/her
 
@@ -14,6 +14,9 @@
   <img align="center" alt="VazMF-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="VazMF-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="right" alt="VazMF-icon" height="150" width="150" src="https://cdn.discordapp.com/attachments/566740682488938536/873780315808727080/vaz-mf-icon.gif">
+ <div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+
   
   ##
   
