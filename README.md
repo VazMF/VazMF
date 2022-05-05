@@ -9,6 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VazMF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VazMF&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+ 
+ <div style="display: inline_block"><br>
+  <img align="right" alt="VazMF-icon" height="150" width="150" src="https://cdn.discordapp.com/attachments/566740682488938536/873780315808727080/vaz-mf-icon.gif">
   
   ##
   
@@ -21,7 +24,6 @@
  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
- <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 
  ![Snake animation](https://github.com/VazMF/VazMF/blob/output/github-contribution-grid-snake.svg)
     
