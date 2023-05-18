@@ -1,7 +1,6 @@
 ### Hi there, I'm Maria Fernanda!
 
 - 🔭 I work with mobile and back-end development
-- 🌱 I'm learning AI concepts
 - 😄 Pronouns: she/her
 
  <div>
