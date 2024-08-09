@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maria!</h1>
 <h3 align="center">A passionate Software Developer from Brazil</h3>
 
-- 🔭 I'm, work currently working in [Koper ERP](https://koper.com.br/)
+- 🔭 I'm currently working in [Koper ERP](https://koper.com.br/)
 - 📚 I have a degree in Computer Science
 - 🌳 I have experience with web and mobile development
 - 🌱 I'm currently learning React
